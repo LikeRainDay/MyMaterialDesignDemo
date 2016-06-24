@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+
+    <item
+        android:id="@+id/menu_01"
+        android:icon="@drawable/ic_google_plus_box"
+        android:title="Google+"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menu_02"
+        android:icon="@drawable/ic_facebook_box"
+        android:title="Facebook"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menu_03"
+        android:icon="@drawable/ic_twitter_box"
+        android:title="Twitter"
+        app:showAsAction="always" />
+</menu>

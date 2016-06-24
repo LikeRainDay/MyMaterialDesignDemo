@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">6.0新技术咋大会</string>
+    <string-array name="tabLayoutData" >
+        <item>新闻</item>
+        <item>娱乐</item>
+        <item>我</item>
+    </string-array>
+</resources>
